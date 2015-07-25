@@ -22,3 +22,7 @@ How do the diagrams help you visualize the branch structure?
 
 Err... by diagraming it for you?
 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All changes from both branches are combined. The resulting commit has two parents.
