@@ -16,3 +16,9 @@ Only add the files for that change.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Testing new features that you're not sure should be in the main software. Branches allow you to diverge temporarily from the main stream of development.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Err... by diagraming it for you?
+
